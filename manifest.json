@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncLazy-1.html",
-          "hash": "MKzUH8MOe19dx73WXj26PhlDhn++IL1jpE610T8fD/U="
+          "hash": "cHWUa3g8+Bo9zNO3KVcKfFvukMM0DNkHDGAsJ6TuPB8="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncLazy.html",
-          "hash": "Qglb5i+c4OyUcL5B4vo6s57Mk8Gt11nvmsg5n8+hHgY="
+          "hash": "LAvjLcoW7gqOxc52MOeoKt39bt4F4P+uLX/dsX7vMvg="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncReactiveProperty-1.html",
-          "hash": "CCXlwXL7IYBMKtqELhQlZLQYD/F2K6eiGahLgvOPHV8="
+          "hash": "wIRXyOvbIROLb/P3wnq+JhUe9ho8Hq05rXTyXrFoVwI="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncUnit.html",
-          "hash": "qAMHkCbiawiOcYtWA3RBSkLKDENJOJTKI1GXOInV8cI="
+          "hash": "XV4J3M9L+Z/P+3mfJIlZ1hX4UZQNcJ/4XWYbMilYMww="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncUnityEventHandler-1.html",
-          "hash": "qOZidJCqZ1jZZ9qQb50qM4KaRmjCbzK83DmvQei8eFI="
+          "hash": "3rH7/sne4waziu+yM8p4AaIk4Lqt2PIQCSCUZTn10NI="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AsyncUnityEventHandler.html",
-          "hash": "9YVkc5NC3K72JdzAitPzr1Sz4B//O9cwsaTlU0EG/Y0="
+          "hash": "gqsJAn+auVDSZkMdE7juQTTjjmS7x0vh5nFcyBb8tiE="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AutoResetUniTaskCompletionSource-1.html",
-          "hash": "I6CAXSybE3z0ILZN4T3FehwdkYuJ+yZOTo+OVB97s5M="
+          "hash": "P1ZxRoGQnSTXe5+LhvVDPzaxcE2tooT3iAm5BOfmqnU="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.AutoResetUniTaskCompletionSource.html",
-          "hash": "z4Aqq0AUsFLlCciWjEAL1CcOufCppMsUaT9NOMPpGPM="
+          "hash": "axUdNG3rJqzXki5ICuj+IhX3lLokBzcvVbSnuRNDOFE="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CancellationTokenAwaitable.Awaiter.html",
-          "hash": "/5mSnX9vf1hQckn7Y0/+v5FwPHkUw3dVmAX3gSoy894="
+          "hash": "zb4VhdIk56dpcYY8rBXcBB/EZj4zReZ3vCBbFje60Iw="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CancellationTokenEqualityComparer.html",
-          "hash": "BUeLcPqsA1iSK6sESUPSEhTlyTYvs5NOqmc/588DGpo="
+          "hash": "Vb9BJeO96pYg/vY87hTEQe9lFjrQULrFShdPT8xS810="
         }
       },
       "is_incremental": false,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CancellationTokenExtensions.html",
-          "hash": "yeV+2UzJjYCc6LA9Rm6WJGRn9VUBoSzsdk5Vz9P4ZdY="
+          "hash": "bkjVxUoJTXMAaRT5vufLapsuFXpGzg8W9Ie6HFf9vEI="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CancellationTokenSourceExtensions.html",
-          "hash": "kEOfB3EijWeBOONq2SuYNiN0cCCRV55SbTaTsdMX2eg="
+          "hash": "ZG7kQxSa0MoAPQYVLQ30y8T6dMJEqqv2L5yAToNxnjs="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ChannelClosedException.html",
-          "hash": "2frBSOvpvVjgfJqP0O6tdMaUZ8jTiJGtn6cGHNrtTlY="
+          "hash": "kNiRmwST6MXHR8L4Glt+YbpWVh06OCr5AbjoEaUIBGc="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ChannelWriter-1.html",
-          "hash": "9e/qhGQzuhwUZt39GhbxQ3XpOhHRKLox8KsDAP/7+3U="
+          "hash": "dGld6YOmSagXkkP/0G+a+D0JPD5RRTC4/Q4OfOqotQ0="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CompilerServices.AsyncUniTaskMethodBuilder-1.html",
-          "hash": "TYD3a8Aii2RNoK13NYrbFV5BDOziqWqnrtUCMUM3Uqg="
+          "hash": "FTzPArYcnafXBncEMFemsKF9XVm2bT7VFGjjh/EtnLY="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CompilerServices.AsyncUniTaskMethodBuilder.html",
-          "hash": "lwbneJ1XmalCUCjn+ywfDcGw76LuIfRtIZSVNQYChAI="
+          "hash": "ACAKLDS8ebGdGqlTZAlj2syoX86q09AgGYjlD52NaM0="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CompilerServices.AsyncUniTaskVoidMethodBuilder.html",
-          "hash": "GTYdy5lXlLBspYE+0rQUn3/aQwAqkSTbAwriX7APjoc="
+          "hash": "0fHdoMICnkbcWPUBIjeWRkx0WA+QOPmgASJkapHXNdc="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.EnumerableAsyncExtensions.html",
-          "hash": "eR5/AwFRRowKWbjPh6NoXC/vcJEAXa1nvGC95ib3SG4="
+          "hash": "NqjqEqji5SwffQG8k42gwd9zIVqgV4Yo7OcJSLH04CA="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.EnumeratorAsyncExtensions.html",
-          "hash": "vtWq+lsVUbkjrfwywFJU5HAG8ZbFHBMIup54yVKLgtk="
+          "hash": "dfkRrSzJiUlXLQLkW54KooHnSSp+fGIaf6gDIN52nu8="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ExceptionExtensions.html",
-          "hash": "YlY65H9LFwUXPw5VXN+vZDfkuVfHE+8IM5zrecHGp58="
+          "hash": "koBJ8IeSc7vTYS15sS9wQ8o0RJE+AdD5E/qSbmqt3KY="
         }
       },
       "is_incremental": false,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncClickEventHandler.html",
-          "hash": "o/T+YiAvOP7xUPKsuICGtop/XPI1gKw33cVmdL2YuMw="
+          "hash": "3JIFr88ygoNaWovSnohgLBn1wIE8WlhbfhwZEZCtT6k="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncDeselectEventHandler-1.html",
-          "hash": "qCJZtRrTTCwcQKbo6gCsssTAziuRfwhv8qBU6zKvSlo="
+          "hash": "Oc8K9p8FeM7fTVCOFAoiLvjuYfTevLDhSQE+ifJdhLs="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncEndEditEventHandler-1.html",
-          "hash": "L+PLeT3OH0BcExZCu3etDtPE0y7MfKQikynJGQXKAiY="
+          "hash": "beu5CCtcFxoLDGV6VwHcx/znAu9f3lawp6ZDe7eZjK4="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncEndTextSelectionEventHandler-1.html",
-          "hash": "OKzsbR88hI4rf6HwrYd4sZjSibJHWhj9LchlLLWOCQw="
+          "hash": "LZjYxRk57BRuirX6B4EH2XHrGS21t3IVFtqnuUAOl2s="
         }
       },
       "is_incremental": false,
@@ -393,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncSelectEventHandler-1.html",
-          "hash": "bTI0ugKQ/juFyHCuwIiitRVEUiMgvlBhiCpcNrFAt7w="
+          "hash": "d8gLoj/Xh5FjxvifU1W/ql5mkFd6bm7nZ+JyJtYNn+o="
         }
       },
       "is_incremental": false,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncSubmitEventHandler-1.html",
-          "hash": "XFJT/EX+biCfB7dZToyVFfL7ZMLx0iabk4+jVZfEcvE="
+          "hash": "c2RhUgvbPCuLt1YqwC6xvJ5919OD8Jgm0AabIUdm9gs="
         }
       },
       "is_incremental": false,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncTextSelectionEventHandler-1.html",
-          "hash": "6mD3RR8ivdiPMIC+xEwWaKpFFAynGzraJO0CgTPCSPg="
+          "hash": "s/xyDiBnxiqYstN/GpCW5ZfQM9jCCe6mwJpvLzFKTpU="
         }
       },
       "is_incremental": false,
@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IAsyncValueChangedEventHandler-1.html",
-          "hash": "a+cpImiNehPWfWihWsfIzYiEPgTZItaUNV/e/w1lIB0="
+          "hash": "IFSRjuWWFN44Gvnl5P95aDcBPK5zybCqmsJzrYSHJKM="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IConnectableUniTaskAsyncEnumerable-1.html",
-          "hash": "OoT8wq/Nya2JLQZ9fj9hlCCeHMj9HZJjcF+aAsC8oq0="
+          "hash": "VPggwj3lJlogt51qpMZX5PWYpaWaZA32hMCUA+AcA4k="
         }
       },
       "is_incremental": false,
@@ -513,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IRejectPromise.html",
-          "hash": "2sRVYOUKknaL8WlX7jkH6rfEjJVyXTstRakTDMqr230="
+          "hash": "vgr0mbPcI82pCbEbTjQlXtJ8stO2VVErcZuy9XfMOtY="
         }
       },
       "is_incremental": false,
@@ -561,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ITriggerHandler-1.html",
-          "hash": "S2j9LJKgY9DU44MXMjKx9u1gS/SlbH0NycHeulIY3fY="
+          "hash": "lnZqSb7L3ybBBDRXMs8dEPlI03UqtHYJ+XUpJFtqPEI="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IUniTaskOrderedAsyncEnumerable-1.html",
-          "hash": "X9MKS4/nHwuy7Ql+DkQet4g7FTgvWTFiKuRBI1FGC44="
+          "hash": "AGE6xlz9NAkZPrMxIyPsO3fQ/CSWnQp9muCCc6bpNYg="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IUniTaskSource-1.html",
-          "hash": "Ow+Ng8+mX81ZaxaxccebEyxqP81Gjwv9p2gT1DiclQ8="
+          "hash": "lHHZisS0/+mH7S1AzzL6joS3AxF9/JQFp4zgN/0TjrI="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IUniTaskSource.html",
-          "hash": "eiLKkCTODahDXvkPLfF38ZXKdd23nt04lEg/4/m8EEI="
+          "hash": "7k6J7ix4AZKkNWzT/c5eD34ckTlAwxN5KgMvCKQK+bw="
         }
       },
       "is_incremental": false,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.InjectPlayerLoopTimings.html",
-          "hash": "Wwe3iOJsiF0gKImrLUASc3S39Ev7IRZnsOvxKW0zs7g="
+          "hash": "WSMkvv0Eu9aum7U7BHm8YHgwG82S1NJgOr6TynFphRQ="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html",
-          "hash": "OJeqkR0aZeDeXOZyLbcQ9pV78GJ11GxVA80rYRIqDA4="
+          "hash": "GtuQ2CcZNchmbKh5Rf0tFc+zuUljtCFo/WxS5cnSnr4="
         }
       },
       "is_incremental": false,
@@ -693,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.MoveNextSource.html",
-          "hash": "WryjmZuoxsPsZZZNdorAsD01wm/qC18wTYH90TK1bZ0="
+          "hash": "hBR6b8sCmf9C9u3lvL/hvvkOei/XVq2KHKkh9U/ALmk="
         }
       },
       "is_incremental": false,
@@ -705,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.PlayerLoopHelper.html",
-          "hash": "4qooLQ2JQL2+tXokSq9YH145YnfOE67kFnMZsXkyYbs="
+          "hash": "CoTnzf/vqMbC0LtMdZ5rHXOyWxBuBlhne2s2xANAnyA="
         }
       },
       "is_incremental": false,
@@ -717,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.PlayerLoopTimer.html",
-          "hash": "hFw5QW1uHxElo414t/T8ItmnpfxZIqLeK5rOzhAN0H4="
+          "hash": "wLj467d1ZYOOLcWkaazS60Gsw1eR+28q4ReflR0vyDo="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.Progress.html",
-          "hash": "M+EOio2M3CpFG2x+rRxPD+GvC4/ZMQT2MdynETpVh34="
+          "hash": "z2Gfn3EbGUjhp3ocIJcQrZIKHyyqaxiYIyFgYvgH8L0="
         }
       },
       "is_incremental": false,
@@ -753,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ReadOnlyAsyncReactiveProperty-1.html",
-          "hash": "UivWtGbNXx/fl8EYYXuVu7RhRW3/+Pv7nteMnm/T6uQ="
+          "hash": "jzmdZn8B6Gbpdkkb4GCzCNa1uAgrYPE/QHb0d8HJKP8="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.ReturnToSynchronizationContext.Awaiter.html",
-          "hash": "YHjKG/Wsb5AyESHcYrtmhjKYDZvMdvREC9GZKAHvc5E="
+          "hash": "/T/ejPGx8FdeHTDd9H3HaPiebxFQE4N4+AfBmC+lwBQ="
         }
       },
       "is_incremental": false,
@@ -801,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.SwitchToSynchronizationContextAwaitable.Awaiter.html",
-          "hash": "sWFbpozUj5KIDiLMIsK/0nP26Sb4hnfLcsIh2FtYr3g="
+          "hash": "Hw2SyAoL3VbwQa0oi+wrslWPTQbgjmCp5XwOhsmCmBQ="
         }
       },
       "is_incremental": false,
@@ -825,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.SwitchToTaskPoolAwaitable.Awaiter.html",
-          "hash": "RHTnUv5KweRtUGcsAC1UPnZbE1ZQUZjJQ2QqgwgxAcc="
+          "hash": "Pq4VUF8I8YL8WxVUuk1cZBXcvvvIdEZ3aWrfvcdunhE="
         }
       },
       "is_incremental": false,
@@ -849,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.SwitchToThreadPoolAwaitable.Awaiter.html",
-          "hash": "NXe9mUIvqPm1m89pY7pl5E+rza/t2CFF/YtEHeUfky8="
+          "hash": "ZswAoKWCE1DMYoKA6wTT6BK+Pgy28lIHl2PF9/lBxA4="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.TaskPool.html",
-          "hash": "BC0yy1fIORgk1lz7fL5QZ0pafLbpnKpadH5ug7wtiKo="
+          "hash": "PkU4bz+8qzxdIlOySZXxpYiBR6rflgPobZU4R+ycOPE="
         }
       },
       "is_incremental": false,
@@ -897,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.TaskTracker.html",
-          "hash": "kzqZqNbsQx2LmXNdZrYFfKeNYM8EpiPM1jH/yIDX940="
+          "hash": "PWWL9cy9BjX1s2zQVA663wBCJr9O5L1jKCUSAXBxe7I="
         }
       },
       "is_incremental": false,
@@ -909,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.TimeoutController.html",
-          "hash": "W4yrcc6/GPvI6/Y0hkpeJhPX8mGUAZ8Ox1j2AxY00hY="
+          "hash": "3iW9PNmE3Ody+Aih92wuzslktJgCxkdMZmUW50M5sBI="
         }
       },
       "is_incremental": false,
@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.TriggerEvent-1.html",
-          "hash": "lqDbDjOrrD0gmd0I4JSvszDzXK2SLX8RFWbxzlUS0bg="
+          "hash": "ThsBE5qt9nfG8WnLFRU87JvyOUn02/Tpmdgey/CAfGY="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.Triggers.AsyncTriggerHandler-1.html",
-          "hash": "bs8ZVUDJtxff0UXBBqAmsdNp0AOAy7aEuTY6vAHy4LU="
+          "hash": "y0xw7C2kvX3mfi5/zV1zkXAXpV50ZOhNBakDN0Zp5rA="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTask-1.Awaiter.html",
-          "hash": "eIINRyb5okMwsxLCdbgzexWLDP5jWnlqpFgbxbo72JY="
+          "hash": "pKa5j6Cri2p3HXqSeFPBQVwNsbe8tx0BKSXvOVBW4mo="
         }
       },
       "is_incremental": false,
@@ -2793,7 +2793,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTask-1.html",
-          "hash": "rwyJbU7Em6chIjTOC44e9kK37+lXt9pGDnD81eMUizY="
+          "hash": "GGbmo50oFc8jFVZMuMeBVIZj1qA0jlPmr6ow3yLFlPQ="
         }
       },
       "is_incremental": false,
@@ -2805,7 +2805,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTask.Awaiter.html",
-          "hash": "DWh/t7wX66JxY7lBT2+UEcSrT8SO1p0pkuLvl8Lrub8="
+          "hash": "5fAfSCOB1n4riBEIz8VeGU1afU3dO0xz8/i5XWnGffE="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTask.html",
-          "hash": "SPEzxHR0nZyg/AoWPoaZSp1wpBwOQD9WhCczYlNN+pg="
+          "hash": "lQ1Tup0w60kTfgLIEOM0DXICmFdoMvz3MNFQAUtC+0g="
         }
       },
       "is_incremental": false,
@@ -2877,7 +2877,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskCompletionSource-1.html",
-          "hash": "/xiBlBJDzKj0cOtxgAPIh7+U1ELuqcjiIZm0tkSoiK0="
+          "hash": "FStA64wd6TW/BIuh87pCLoW6f+ZUxuK9IdkRYCpv/0I="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskCompletionSource.html",
-          "hash": "GpGSxRLv+2+od99C0k+7ebeVG1XxPJmY5T1CWWqVEk8="
+          "hash": "fJd0/QVImm4MBXw/QcuI3DCim2AuQ8Bu+dtCofPTml8="
         }
       },
       "is_incremental": false,
@@ -2901,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskCompletionSourceCore-1.html",
-          "hash": "VUZAHEgPufgahnAq5EMT6j2Q1r2h26NmBeLtTKklDis="
+          "hash": "L5eS0kCfVZ7UHLq30AOXQjTnqn0JEDgcrGeZGROMnCQ="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskExtensions.html",
-          "hash": "hqG+0lBt0AhXkXNCVPwHcZmnrxjNS5js/39X5POTlCw="
+          "hash": "Q0iXSccXTY9DQ+AjNoiPIRgOP8QR5/YCWuhyX37An24="
         }
       },
       "is_incremental": false,
@@ -3273,7 +3273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskObservableExtensions.html",
-          "hash": "m1FaHbBH1XYXDWvdL77nzD+1JHtTIZGez/zeKmADNeM="
+          "hash": "2zzVM4CiSgbSDvqsL85ZAZMYh9/a8Y1ZHAGOnhwBkSw="
         }
       },
       "is_incremental": false,
@@ -3285,7 +3285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskScheduler.html",
-          "hash": "fk2IkV8g6i1WItv/2ysYOzJQ8c8wJTBYdrO0XZW8kFw="
+          "hash": "iJ3rWNVWZ+4qYOep0wTpFPZ+xhWobMjs6V8tR+yRrtg="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UnityAsyncExtensions.AsyncOperationAwaiter.html",
-          "hash": "sxM9LwASvewaRpj2lvH2nPj4FGLKPhg5RVOwZoniePs="
+          "hash": "0WHy70B05mwezelzbIPcnBt8ThBpAocJurBYcEk6XOA="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UnityAsyncExtensions.ResourceRequestAwaiter.html",
-          "hash": "Wy+0DkFbRm00fyDYfHi++Mc2BE+Cf7ua3U2JJW/LIIM="
+          "hash": "LmykGUEXmTZBU1Z1WHrpahqRSChLOdMzC6nr/mvLgW0="
         }
       },
       "is_incremental": false,
@@ -3369,7 +3369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UnityAsyncExtensions.html",
-          "hash": "0zW9FzrZ8OTsjtbPwOf8sJoCJrK/gSrbHUdDCtsbenA="
+          "hash": "0IgS5SMTuZE7NWNFzBoQCGHfZj1/k4++A5BC7kvczcI="
         }
       },
       "is_incremental": false,
@@ -3381,7 +3381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UnityBindingExtensions.html",
-          "hash": "P73Fjq/5k9XeEh019GGC9qsAXHUa3BBxoVci9H/Pzto="
+          "hash": "Pd/PF4A2Aix6FE49xPPbIdwUa9j4hbzQbISxMnfaytk="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.YieldAwaitable.Awaiter.html",
-          "hash": "3Fv2Ewmey12HlTPCxyADDfWfAjTT7UNNv2zB5AvujXY="
+          "hash": "rFkUY+0BvVwbK0lhNBVm489/wbl9aySb9LH/ezG3LOo="
         }
       },
       "is_incremental": false,
